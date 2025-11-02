@@ -1,0 +1,18 @@
+import { MetadataRoute } from "next"
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  return [
+    {
+      url: "https://academiaholystic.vercel.app/",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://academiaholystic.vercel.app/nosotros",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://academiaholystic.vercel.app/contacto",
+      lastModified: new Date(),
+    },
+  ]
+}

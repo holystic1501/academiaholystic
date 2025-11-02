@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://academiaholystic.vercel.app/contacto
+Host: https://academiaholystic.vercel.app/
 
 # Sitemaps
-Sitemap: https://academiaholystic.vercel.app/contacto/sitemap.xml
+Sitemap: https://academiaholystic.vercel.app/sitemap.xml
