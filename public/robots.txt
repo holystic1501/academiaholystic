@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://academiaholystic.vercel.app/contacto
+
+# Sitemaps
+Sitemap: https://academiaholystic.vercel.app/contacto/sitemap.xml
