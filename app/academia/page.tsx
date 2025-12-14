@@ -33,8 +33,8 @@ export default function AcademiaPage() {
               </div>
               <h2 className="text-xl sm:text-2xl font-bold mb-4">Misión</h2>
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base">
-                Formar estudiantes integrales con excelencia académica, desarrollando sus capacidades intelectuales,
-                emocionales y sociales para que sean ciudadanos responsables y exitosos en un mundo globalizado.
+                Formar estudiantes integrales, desarrollando sus capacidades intelectuales,
+                emocionales y sociales para que sean ciudadanos responsables y universitarios exitosos.
               </p>
             </div>
 
@@ -45,8 +45,8 @@ export default function AcademiaPage() {
               </div>
               <h2 className="text-xl sm:text-2xl font-bold mb-4">Visión</h2>
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base">
-                Ser reconocidos como una institución educativa líder en innovación pedagógica y formación integral,
-                destacando por la calidad de nuestros egresados y su impacto positivo en la sociedad.
+                Ser reconocidos como una institución educativa líder en la formación integral de estudiantes,
+                destacando por la calidad de nuestros alumnos y su impacto positivo en la sociedad.
               </p>
             </div>
 
@@ -79,8 +79,8 @@ export default function AcademiaPage() {
                 </div>
                 <h3 className="text-lg sm:text-xl font-semibold mb-3">Metodología Innovadora</h3>
                 <p className="text-muted-foreground leading-relaxed text-sm sm:text-base">
-                  Implementamos metodologías activas y tecnología educativa para garantizar un aprendizaje significativo
-                  y adaptado a las necesidades del siglo XXI.
+                  Implementamos metodologías activas de enseñanza, brindando posibilidades de aprendizaje práctico y
+                  colaborativo que complementan el sistema tradicional de enseñanza.
                 </p>
               </div>
 
@@ -101,8 +101,8 @@ export default function AcademiaPage() {
                 </div>
                 <h3 className="text-lg sm:text-xl font-semibold mb-3">Resultados Comprobados</h3>
                 <p className="text-muted-foreground leading-relaxed text-sm sm:text-base">
-                  Nuestros estudiantes destacan en evaluaciones nacionales e internacionales, demostrando la calidad de
-                  nuestra propuesta educativa.
+                  Más de 30 ingresantes en las principales universidades del país en los últimos años, incluyendo
+                  UNI, PUCP, UPCH y UNCP
                 </p>
               </div>
 

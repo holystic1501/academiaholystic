@@ -78,7 +78,7 @@ export default function MatriculasPage() {
         <div className="container mx-auto px-3 sm:px-4 relative z-10 text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm text-white px-3 py-1.5 sm:px-4 sm:py-2 rounded-full text-xs sm:text-sm font-medium mb-4 sm:mb-6">
             <GraduationCap className="w-3 h-3 sm:w-4 sm:h-4" />
-            <span>Matrículas Abiertas 2024</span>
+            <span>Matrículas Abiertas 2026</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-balance mb-4 sm:mb-6 text-white">
             Inscríbete en Holystic Academy
