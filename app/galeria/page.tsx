@@ -11,7 +11,7 @@ const galleryItems = [
     url: "/awelito holystic.jpg",
     title: "Se funda Holystic Academy",
     date: "17 de Octubre, 2023",
-    description: "Estudiantes presentando sus proyectos innovadores en la feria anual de ciencias.",
+    description: "Fundación de Holystic Academy, marcando el inicio de una nueva era educativa.",
   }
 
 ]

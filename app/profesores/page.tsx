@@ -9,36 +9,7 @@ const teachers = [
     bio: "Capacitador de Docentes para MINEDU, actualmente entrenador de FISICA EXPERIMENTAL para olimpiadas internacionales. Miembro de la Sociedad Peruana de Docentes de Física.",
     image: "/foto abuelito y papá micho.jpg",
   },
-  {
-    name: "Lic. María González",
-    subject: "Lengua y Literatura",
-    bio: "Licenciada en Literatura con maestría en Didáctica del Lenguaje. Apasionada por fomentar la lectura crítica.",
-    image: "/professional-female-teacher-literature.jpg",
-  },
-  {
-    name: "Ing. Roberto Silva",
-    subject: "Ciencias",
-    bio: "Ingeniero Químico con especialización en enseñanza de ciencias naturales. Promueve el aprendizaje experimental.",
-    image: "/professional-male-teacher-science.jpg",
-  },
-  {
-    name: "Prof. Ana Torres",
-    subject: "Historia y Geografía",
-    bio: "Profesora de Historia con 12 años de experiencia. Especialista en metodologías activas de enseñanza.",
-    image: "/professional-female-teacher-history.jpg",
-  },
-  {
-    name: "Lic. Jorge Ramírez",
-    subject: "Inglés",
-    bio: "Certificado TESOL con experiencia internacional. Enfoque comunicativo y preparación para certificaciones.",
-    image: "/professional-male-teacher-english.jpg",
-  },
-  {
-    name: "Prof. Laura Vega",
-    subject: "Arte y Música",
-    bio: "Artista plástica y musicóloga. Fomenta la creatividad y expresión artística en los estudiantes.",
-    image: "/professional-female-teacher-art-music.jpg",
-  },
+
 ]
 
 export default function ProfesoresPage() {
