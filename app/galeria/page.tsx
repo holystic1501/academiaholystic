@@ -12,42 +12,8 @@ const galleryItems = [
     title: "Se funda Holystic Academy",
     date: "17 de Octubre, 2023",
     description: "Estudiantes presentando sus proyectos innovadores en la feria anual de ciencias.",
-  },
-  {
-    type: "image",
-    url: "/gallery-graduation-ceremony.jpg",
-    title: "Ceremonia de Graduación",
-    date: "20 de Diciembre, 2023",
-    description: "Celebración de graduación de la promoción 2023 con estudiantes y familias.",
-  },
-  {
-    type: "image",
-    url: "/gallery-sports-day.jpg",
-    title: "Día Deportivo",
-    date: "10 de Octubre, 2023",
-    description: "Jornada deportiva con competencias y actividades recreativas para todos los grados.",
-  },
-  {
-    type: "image",
-    url: "/gallery-art-exhibition.jpg",
-    title: "Exposición de Arte",
-    date: "5 de Septiembre, 2023",
-    description: "Muestra de trabajos artísticos realizados por nuestros talentosos estudiantes.",
-  },
-  {
-    type: "image",
-    url: "/gallery-cultural-festival.jpg",
-    title: "Festival Cultural",
-    date: "22 de Agosto, 2023",
-    description: "Celebración de la diversidad cultural con presentaciones de danza, música y gastronomía.",
-  },
-  {
-    type: "image",
-    url: "/gallery-robotics-workshop.jpg",
-    title: "Taller de Robótica",
-    date: "18 de Julio, 2023",
-    description: "Estudiantes aprendiendo programación y construcción de robots en nuestro laboratorio.",
-  },
+  }
+
 ]
 
 export default function GaleriaPage() {
