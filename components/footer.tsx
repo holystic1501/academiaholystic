@@ -75,7 +75,7 @@ export function Footer() {
                 <Facebook className="w-4 h-4" />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/academiaholystic/"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="w-9 h-9 rounded-lg bg-primary/10 text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 flex items-center justify-center"
