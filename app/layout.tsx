@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     type: "website",
   },
   icons: {
-    icon: "/logo verde.png",
+    icon: "/logo negro.png",
     apple: "/apple-touch-logo verde.png",
   },
 }
